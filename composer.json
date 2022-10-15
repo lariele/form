@@ -1,7 +1,7 @@
 {
     "name": "lariele/form",
     "description": "Form components",
-    "keywords": ["Laravel", "Lariele"],
+    "keywords": ["lariele", "laravel", "livewire", "form"],
     "license": "MIT",
     "authors": [
         {
