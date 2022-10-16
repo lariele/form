@@ -2,11 +2,11 @@
 
 ### Form Input components for Laravel Livewire builded with TALL
 
-[//]: # (##  Installation)
+##  Installation
 
-[//]: # ()
-[//]: # (```)
+```
+composer require lariele/form
+```
 
-[//]: # (composer require lariele/form)
-
-[//]: # (```)
+## Demo
+Soon

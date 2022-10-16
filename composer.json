@@ -1,7 +1,7 @@
 {
     "name": "lariele/form",
-    "description": "Form components",
-    "keywords": ["lariele", "laravel", "livewire", "form"],
+    "description": "Form Input components for Laravel Livewire.",
+    "keywords": ["lariele", "form", "laravel", "livewire"],
     "license": "MIT",
     "authors": [
         {
